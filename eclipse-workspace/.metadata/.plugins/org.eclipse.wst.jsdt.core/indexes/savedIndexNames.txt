@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/galosk/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3180643530.index
+4109959881.index
+1223573623.index
+1780462102.index
+3439515350.index
+852037321.index
+4162169954.index
